@@ -252,3 +252,18 @@ input[type="submit"] {
 input[type="submit"]:hover {
     font-family: "Lato", sans-serif;
 }
+
+.back-to-page {
+    width: 200px;
+    padding: .5rem;
+    background-color: var(--background-color3);
+    border: solid 2px var(--primary-color2);
+    border-radius: 7px;
+    text-decoration: none;
+    color: var(--primary-color1);
+}
+
+.back-to-page:hover {
+    color: var(--secondary-color2);
+    background-color: grey;
+}

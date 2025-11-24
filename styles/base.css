@@ -8,6 +8,10 @@
     --body-font: "Lato", Sans-serif;
     --h1-h2-h3-font: "Sofia", Sans-serif;
 }
+/*
+* {
+    margin: 0 auto;
+}?*/
 
 html{
     background-color: #322;
